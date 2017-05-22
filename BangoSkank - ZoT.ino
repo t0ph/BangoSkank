@@ -36,7 +36,7 @@ int i = 0;
 
 String alfa = "1234567890qwertyuiopasdfghjkklzxcvbnm QWERTYUIOPASDFGHJKLZXCVBNM_";
 //what you want to broadcast goes here. It's an array of strings yo.
-String stringus[] = {"_ZONE OF TRUTH! "};
+String stringus[] = {"Bango Skank was here.   "};
 //set this as the number of items in stringus since we're here to have fun, not fix core deficencies of the Arduino language
 int girth = 1;
 
